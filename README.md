@@ -30,3 +30,7 @@ Username: clinical.readonly
 Password: !ClinicalReadOnly@456 
 
 Please note this is a read only account. No MFA required to access, however if this was implemented in the real world, MFA would be mandatory. 
+
+## Docker
+
+**Note on Containerisation:** An example Dockerfile is included in the repository to demonstrate containerisation best practices. However, as the infrastructure deployment was executed entirely via the AWS Management Console, this file is illustrative and was not used to trigger an automated container build.
