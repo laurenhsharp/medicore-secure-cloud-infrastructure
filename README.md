@@ -14,3 +14,7 @@ Amazon Web Services (AWS)
 ## Region
 
 Europe (London) - eu-west-2
+
+## Architecture 
+![Architecture Diagram ](Appendix A Screenshots/Architecture Diagram.png)
+## How to Access Deployment
