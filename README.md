@@ -22,6 +22,9 @@ Europe (London) - eu-west-2
 ## How to Access Deployment
 
 Account ID or Alias: 757077150616
+
 Console Sign in URL: https://757077150616.signin.aws.amazon.com/console 
+
 Username: clinical.readonly 
+
 Password: !ClinicalReadOnly@456 
