@@ -16,5 +16,5 @@ Amazon Web Services (AWS)
 Europe (London) - eu-west-2
 
 ## Architecture 
-![Architecture Diagram](Appendix%20A%20Screenshots/Architecture%20Diagram.png)
+![Architecture Diagram](Report/Appendix%20A%20Screenshots/Architecture%20Diagram.png)
 ## How to Access Deployment
