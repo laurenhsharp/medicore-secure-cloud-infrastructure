@@ -28,3 +28,5 @@ Console Sign in URL: https://757077150616.signin.aws.amazon.com/console
 Username: clinical.readonly 
 
 Password: !ClinicalReadOnly@456 
+
+Please note this is a read only account. No MFA required to access, however if this was implemented in the real world, MFA would be mandatory. 
