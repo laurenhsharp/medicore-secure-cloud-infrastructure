@@ -17,6 +17,6 @@ Europe (London) - eu-west-2
 
 ## Architecture 
 
-![Architecture Diagram](Report/Appendix A Screenshots/Architecture Diagram.png)
+<img src="Report/Appendix A Screenshots/Architecture Diagram.png" alt="Architecture Diagram" width="750"/>
 
 ## How to Access Deployment
